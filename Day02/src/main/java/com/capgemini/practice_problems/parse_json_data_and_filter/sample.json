@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Harsh Veer Singh",
+    "email": "harshveer7828@gmail.com",
+    "age": 30,
+    "city": "Bhopal"
+  },
+  {
+    "name": "Om Tiwari",
+    "email": "omtiwari123@gmail.com",
+    "age": 22,
+    "city": "Delhi"
+  },
+  {
+    "name": "Aryan Gupta",
+    "email": "aryangupta@gmail.com",
+    "age": 27,
+    "city": "Mumbai"
+  }
+]

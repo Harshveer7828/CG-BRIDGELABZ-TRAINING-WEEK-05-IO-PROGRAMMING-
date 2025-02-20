@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Harsh Veer Singh",
+    "email": "harshveer7828@gmail.com",
+    "department": "Engineering",
+    "salary": 75000.0
+  },
+  {
+    "name": "Om Tiwari",
+    "email": "omtiwari123@gmail.com",
+    "department": "HR",
+    "salary": 65000.0
+  },
+  {
+    "name": "Aryan Gupta",
+    "email": "aryangupta@gmail.com",
+    "department": "IT",
+    "salary": 85000.0
+  }
+]
